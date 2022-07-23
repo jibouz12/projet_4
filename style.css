@@ -644,6 +644,10 @@ label,
     color: #575757!important;
 }
 
+.form-group label {
+    font-weight: 800;
+}
+
 .col-sm-4 a {
     font-family: "helvetica";
     font-weight: 400;
