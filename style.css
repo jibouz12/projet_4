@@ -272,6 +272,7 @@ a:hover {
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
     padding-left: 0;
+    margin-bottom: 15px;
 }
 
 #bloc-1-hero h1 {
@@ -652,6 +653,10 @@ label,
     font-family: "helvetica";
     font-weight: 400;
     color: #FFFFFF!important;
+}
+
+.liste {
+    margin-left: 15px;
 }
 
 .container {
